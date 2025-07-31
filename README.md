@@ -1,4 +1,24 @@
 # Getting Started with Create React App
+# 🌦 React Weather App — Final Full Code (Safe + Updated)
+
+A lightweight, modern React application that displays real-time weather data by city using the OpenWeatherMap API. This project emphasizes clean component structure, responsive UI design, and secure API key management through environment variables.
+
+---
+
+## ✅ Features
+
+- 🔍 **City Search**: Enter a city to instantly fetch current weather
+- 📡 **Live Weather Data**: Pulls from [OpenWeatherMap](https://openweathermap.org/)
+- 🌡️ **Weather Info**: Displays temperature, conditions, humidity, "feels like", and icon
+- 🔐 **Secure API Integration**: Key stored via `.env` file (not committed to repo)
+- 💻 **Component-Based UI**: Built with functional React components
+- 🎨 **Minimal, Clean Styling**: Simple CSS with a responsive layout
+
+---
+
+## 📁 Project Structure
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
